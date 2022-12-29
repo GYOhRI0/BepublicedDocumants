@@ -1,2 +1,2 @@
-# testament
+# MyOrganizationCharter
 phew
